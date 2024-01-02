@@ -23,3 +23,4 @@ const CommunityPage = async () => {
     </div>
     )
 }
+export default CommunityPage
