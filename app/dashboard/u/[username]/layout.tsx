@@ -27,3 +27,4 @@ const CreatorLayout = async ({ params, children }: CreatorLayoutProps) => {
     </>
   );
 };
+export default CreatorLayout;
