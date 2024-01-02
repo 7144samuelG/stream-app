@@ -15,7 +15,7 @@ kll
 .env
 # production
 /build
-
+.trunk
 # misc
 .DS_Store
 *.pem
